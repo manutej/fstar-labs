@@ -20,8 +20,8 @@ fi
 echo "Detected OS: $OS"
 echo ""
 
-# Installation directory
-INSTALL_DIR="/opt/fstar"
+# Installation directory (use home directory to avoid permission issues)
+INSTALL_DIR="$HOME/.fstar"
 BIN_DIR="$INSTALL_DIR/bin"
 
 echo "Installation directory: $INSTALL_DIR"
