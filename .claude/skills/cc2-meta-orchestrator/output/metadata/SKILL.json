@@ -1,0 +1,24 @@
+{
+  "title": "CC2.0 Meta-Orchestrator Skill",
+  "name": "SKILL",
+  "file": "SKILL.md",
+  "file_size": 14067,
+  "line_count": 579,
+  "word_count": 1619,
+  "section_count": 43,
+  "code_blocks": 24,
+  "links": 0,
+  "images": 0,
+  "has_math": true,
+  "modified": "2025-11-06T20:40:07.867731",
+  "created": "2025-11-06T20:40:07.871881",
+  "summary": "# CC2.0 Meta-Orchestrator Skill  **Function**: META-ORCHESTRATOR - Multi-Function Workflow Orchestration **Category Theory**: Natural Transformations + Composition **Purpose**: Orchestrate all 7 etern",
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "pdf_files": {
+    "light": "light/SKILL-light.pdf",
+    "dark": null
+  }
+}

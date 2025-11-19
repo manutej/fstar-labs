@@ -1,0 +1,24 @@
+{
+  "title": "CC2.0 REASON Function Skill",
+  "name": "SKILL",
+  "file": "SKILL.md",
+  "file_size": 8734,
+  "line_count": 376,
+  "word_count": 1071,
+  "section_count": 34,
+  "code_blocks": 15,
+  "links": 0,
+  "images": 0,
+  "has_math": false,
+  "modified": "2025-11-06T20:37:52.217547",
+  "created": "2025-11-06T20:37:52.219857",
+  "summary": "# CC2.0 REASON Function Skill  **Function**: REASON - Strategic Planning & Decision-Making **Category Theory**: Functor/Monad (map, bind, return) **Purpose**: Transform observations into strategic pla",
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "pdf_files": {
+    "light": "light/SKILL-light.pdf",
+    "dark": null
+  }
+}
