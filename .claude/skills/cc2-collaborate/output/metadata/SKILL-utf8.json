@@ -1,0 +1,24 @@
+{
+  "title": "CC2.0 COLLABORATE Function Skill",
+  "name": "SKILL-utf8",
+  "file": "SKILL-utf8.md",
+  "file_size": 6726,
+  "line_count": 257,
+  "word_count": 849,
+  "section_count": 23,
+  "code_blocks": 11,
+  "links": 0,
+  "images": 0,
+  "has_math": false,
+  "modified": "2025-11-07T14:53:39.138057",
+  "created": "2025-11-07T14:53:39.138057",
+  "summary": "# CC2.0 COLLABORATE Function Skill  **Function**: COLLABORATE - Multi-Agent Coordination & Team Synchronization **Category Theory**: Applicative + Parallel Composition **Purpose**: Orchestrate multipl",
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "pdf_files": {
+    "light": "light/SKILL-utf8-light.pdf",
+    "dark": null
+  }
+}

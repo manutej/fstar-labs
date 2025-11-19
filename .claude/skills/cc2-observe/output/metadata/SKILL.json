@@ -1,0 +1,24 @@
+{
+  "title": "CC2.0 OBSERVE Function Skill",
+  "name": "SKILL",
+  "file": "SKILL.md",
+  "file_size": 5071,
+  "line_count": 240,
+  "word_count": 634,
+  "section_count": 26,
+  "code_blocks": 11,
+  "links": 0,
+  "images": 0,
+  "has_math": false,
+  "modified": "2025-11-06T20:37:04.942067",
+  "created": "2025-11-06T20:37:04.950125",
+  "summary": "# CC2.0 OBSERVE Function Skill  **Function**: OBSERVE - System State Observation **Category Theory**: Comonad (extract, extend, duplicate) **Purpose**: Observe system state and extract comonadic struc",
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "pdf_files": {
+    "light": "light/SKILL-light.pdf",
+    "dark": null
+  }
+}

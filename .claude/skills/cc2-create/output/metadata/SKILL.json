@@ -1,0 +1,24 @@
+{
+  "title": "CC2.0 CREATE Function Skill",
+  "name": "SKILL",
+  "file": "SKILL.md",
+  "file_size": 12058,
+  "line_count": 521,
+  "word_count": 1467,
+  "section_count": 39,
+  "code_blocks": 17,
+  "links": 0,
+  "images": 0,
+  "has_math": false,
+  "modified": "2025-11-06T20:38:53.777494",
+  "created": "2025-11-06T20:38:53.782278",
+  "summary": "# CC2.0 CREATE Function Skill  **Function**: CREATE - Code Generation & Implementation **Category Theory**: Free Monad + Coalgebra (Pure, Free, unfold) **Purpose**: Transform strategic plans into conc",
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "pdf_files": {
+    "light": "light/SKILL-light.pdf",
+    "dark": null
+  }
+}

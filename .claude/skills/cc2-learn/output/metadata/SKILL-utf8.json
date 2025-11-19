@@ -1,0 +1,24 @@
+{
+  "title": "CC2.0 LEARN Function Skill",
+  "name": "SKILL-utf8",
+  "file": "SKILL-utf8.md",
+  "file_size": 9234,
+  "line_count": 379,
+  "word_count": 1188,
+  "section_count": 27,
+  "code_blocks": 13,
+  "links": 0,
+  "images": 0,
+  "has_math": false,
+  "modified": "2025-11-07T14:53:32.526237",
+  "created": "2025-11-07T14:53:32.526237",
+  "summary": "# CC2.0 LEARN Function Skill  **Function**: LEARN - Continuous Learning & Knowledge Acquisition **Category Theory**: Profunctor + Contravariant Functor **Purpose**: Learn from outcomes, update knowled",
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "pdf_files": {
+    "light": "light/SKILL-utf8-light.pdf",
+    "dark": null
+  }
+}

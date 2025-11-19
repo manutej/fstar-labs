@@ -40,6 +40,31 @@ Complete Claude Code skill for F* development:
   - Physical Plane: Practical verification patterns
   - Spiritual Plane: Ethical formal methods practice
 
+### 4. **Claude Code Ecosystem** (`.claude/`)
+Complete development environment with 35 resources:
+
+**Skills (15 domain experts)**:
+- **category-master** - PhD-level category theory for rigorous proofs
+- **discopy-categorical-computing** - String diagrams, QNLP, quantum circuits
+- **Functional Programming Suite** - fp-ts, purify, elm-development, and more
+- **CC2 Universal Skills** - Task-agnostic developer functions (observe, reason, create, verify, learn, collaborate, orchestrate)
+
+**Agents (12 specialized orchestrators)**:
+- **Research**: deep-researcher, docs-generator
+- **MERCURIO Suite**: Multi-perspective synthesis (Mental/Physical/Spiritual planes)
+- **MARS Suite**: Systems-level innovation and breakthrough thinking
+- **Meta**: meta2 (meta-prompting frameworks), api-architect
+
+**Commands (8 slash commands)**:
+- `/think` - Sequential reasoning with MCP
+- `/mercurio` - Multi-perspective analysis
+- `/mars` - Systems research synthesis
+- `/ctx7` - Library documentation lookup
+- `/diagram-*` - Educational diagram generation
+- `/cheatsheet` - Syntax reference generation
+
+**Total**: ~515KB skills + 12 agents + 8 commands = Complete formal verification research environment
+
 ---
 
 ## 🚀 Quick Start
@@ -145,11 +170,51 @@ fstar-labs/
 ├── README.md                              # This file
 ├── FSTAR_META_PROMPTING_FRAMEWORK.md      # 7-level framework
 ├── MERCURIO_THREE_PLANE_ANALYSIS.md       # Multi-plane analysis
-└── skill/                                 # F* verification skill
-    ├── README.md                          # Skill overview
-    ├── SKILL.md                           # Core expertise
-    ├── EXAMPLES.md                        # Practical examples
-    └── META-PROMPTING.md                  # Advanced techniques
+├── skill/                                 # F* verification skill (82KB)
+│   ├── README.md                          # Skill overview
+│   ├── SKILL.md                           # Core expertise
+│   ├── EXAMPLES.md                        # Practical examples
+│   └── META-PROMPTING.md                  # Advanced techniques
+└── .claude/                               # Claude Code configuration (35 resources)
+    ├── CLAUDE.md                          # Configuration documentation
+    ├── skills/                            # 15 domain skills (~515KB)
+    │   ├── category-master/               # PhD-level category theory
+    │   ├── discopy-categorical-computing/ # String diagrams, QNLP
+    │   ├── functional-programming/        # FP principles
+    │   ├── fp-ts/                         # TypeScript FP
+    │   ├── typescript-fp/                 # TypeScript patterns
+    │   ├── purify/                        # Algebraic data types
+    │   ├── elm-development/               # Elm functional web dev
+    │   ├── cc2-observe/                   # Universal observation
+    │   ├── cc2-reason/                    # Universal reasoning
+    │   ├── cc2-create/                    # Universal creation
+    │   ├── cc2-verify/                    # Universal verification
+    │   ├── cc2-learn/                     # Universal learning
+    │   ├── cc2-collaborate/               # Universal collaboration
+    │   ├── cc2-orchestrator/              # Workflow orchestration
+    │   └── cc2-meta-orchestrator/         # Meta-orchestration
+    ├── agents/                            # 12 specialized agents
+    │   ├── deep-researcher.md             # Technical research
+    │   ├── docs-generator.md              # API documentation
+    │   ├── mercurio-orchestrator.md       # Multi-plane synthesis
+    │   ├── mercurio-synthesizer.md        # Knowledge integration
+    │   ├── mercurio-pragmatist.md         # Feasibility assessment
+    │   ├── mercurio-agent/                # MERCURIO suite
+    │   ├── mars-agent/                    # Systems innovation
+    │   ├── mars-architect.md              # System design
+    │   ├── mars-innovator.md              # Breakthrough solutions
+    │   ├── mars-executor.md               # Execution mastery
+    │   ├── meta2.md                       # Meta-prompting frameworks
+    │   └── api-architect.md               # API/DB design
+    └── commands/                          # 8 slash commands
+        ├── think.md                       # Sequential reasoning
+        ├── sequential-thinking.md         # Extended reasoning
+        ├── mercurio.md                    # Multi-perspective analysis
+        ├── mars.md                        # Systems research
+        ├── ctx7.md                        # Library documentation
+        ├── diagram-coordinator.md         # Educational diagrams
+        ├── diagram-from-file.md           # Diagram generation
+        └── cheatsheet.md                  # Syntax references
 ```
 
 ---
@@ -194,6 +259,7 @@ Skill(fstar-verification)
 
 ## 📊 Metrics
 
+### Core Content
 | Component | Size | Examples | Proofs |
 |-----------|------|----------|--------|
 | Core Skill | 14KB | 20+ | 10+ |
@@ -201,7 +267,26 @@ Skill(fstar-verification)
 | Meta-Prompting | 4KB | 7 levels | 7 categorical |
 | Framework | 27KB | 42 | 7 functorial |
 | Analysis | 33KB | - | - |
-| **Total** | **117KB** | **104+** | **32+** |
+| **Subtotal** | **117KB** | **104+** | **32+** |
+
+### .claude/ Ecosystem
+| Category | Count | Total Size | Purpose |
+|----------|-------|------------|---------|
+| Skills | 15 | ~515KB | Category theory, FP, CC2 universal functions |
+| Agents | 12 | - | Research, synthesis, systems thinking |
+| Commands | 8 | - | Workflows and utilities |
+| **Subtotal** | **35** | **~515KB** | **Complete development environment** |
+
+### Grand Total
+| Metric | Value |
+|--------|-------|
+| **Total Content** | **~632KB** |
+| **Total Resources** | **51** (files/components) |
+| **Skills Available** | **16** (15 in .claude/ + 1 in skill/) |
+| **Agents Available** | **12** |
+| **Commands Available** | **8** |
+| **Examples** | **104+** |
+| **Proofs** | **32+** |
 
 ---
 
@@ -265,10 +350,11 @@ F* Labs embraces:
 
 ---
 
-**Status**: Active research laboratory
+**Status**: Active research laboratory with complete Claude Code ecosystem ✅
 **Last Updated**: 2025-11-18
-**Skill Version**: 1.0 (82KB comprehensive)
-**Framework Version**: 1.0 (7-level categorical)
+**Core Content**: 117KB (skills + frameworks + analysis)
+**.claude/ Ecosystem**: 35 resources (~515KB skills, 12 agents, 8 commands)
+**Total Resources**: 51 components, 632KB knowledge base
 
 ---
 

@@ -1,0 +1,24 @@
+{
+  "title": "CC2.0 VERIFY Function Skill",
+  "name": "SKILL",
+  "file": "SKILL.md",
+  "file_size": 1508,
+  "line_count": 68,
+  "word_count": 179,
+  "section_count": 5,
+  "code_blocks": 2,
+  "links": 0,
+  "images": 0,
+  "has_math": false,
+  "modified": "2025-11-07T13:45:14.670230",
+  "created": "2025-11-07T13:45:14.670230",
+  "summary": "# CC2.0 VERIFY Function Skill  **Function**: VERIFY - Quality Verification & Testing **Category Theory**: Applicative Functor (verification composition) **Purpose**: Verify implementations meet qualit",
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "pdf_files": {
+    "light": "light/SKILL-light.pdf",
+    "dark": null
+  }
+}
